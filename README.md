@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hi , Myself Krish Gupta
+Hi , Myself Krish Gupta ! <br>
 Cyber sleuth by day, AI & game dev by night. Always coding, always evolving. 💻✨
 
 🔭 I’m currently working on<br>MoveMinds - AI-driven gesture-based games<br><br>👯 I’m looking to collaborate on<br>Open-source cybersecurity tools<br><br>🤝 I’m looking for help with<br>AI for gaming<br><br>🌱 I’m currently learning<br>Ethical hacking, game development techniques, advanced AI<br><br>💬 Ask me about<br>Cybersecurity, AI in gaming, gesture-controlled apps<br><br>📫 How to reach me<br>krishgupta90621@gmail.com<br><br>👨‍💻 All of my projects are available at<br>https://www.linkedin.com/in/krishguptaofficial/<br><br>⚡ Fun fact<br>I don't need therapy, I just need my code to run. 😎<br>
