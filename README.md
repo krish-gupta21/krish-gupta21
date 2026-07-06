@@ -1,9 +1,79 @@
-# 💫 About Me:
+# 👋 About Me
 
-Hi , Myself Krish Gupta ! <br>
-Cyber sleuth by day, AI & game dev by night. Always coding, always evolving. 💻✨
+Hi, I'm **Krish Gupta**, a final-year Computer Science Engineering student passionate about **Cybersecurity**, **Vulnerability Assessment**, and **Web Application Security**.
 
-I’m looking to collaborate on<br>Open-source cybersecurity tools<br><br>🤝 I’m looking for help with<br>AI for gaming<br><br>🌱 I’m currently learning<br>Ethical hacking, Game development techniques, Advanced AI<br><br>💬 Ask me about<br>Cybersecurity, AI in gaming, gesture-controlled apps<br><br>📫 How to reach me<br>krishgupta90621@gmail.com<br><br>👨‍💻 All of my projects are available at<br>https://www.linkedin.com/in/krishguptaofficial/<br><br>⚡ Fun fact<br>I don't need therapy, I just need my code to run. 😎<br>
+🔐 I enjoy identifying security vulnerabilities, conducting security assessments, and building practical cybersecurity projects while continuously learning secure software practices.
+
+---
+
+## 🏆 Highlights
+
+🏅 Security Research Hall of Fame – Responsible Vulnerability Disclosure
+
+🏅 Top 50 – HackWithinIndia National CTF
+
+🏅 Team Leader – Smart India Hackathon 2024
+
+🏅 Selected for IIITDM Kancheepuram's Mastering Software Security & Vulnerability Assessment Bootcamp
+
+---
+
+## 🔭 Currently Working On
+
+- Real-world Web Application Vulnerability Assessment (VAPT)
+- Security Research & Responsible Vulnerability Disclosure
+- Open-source Cybersecurity Projects
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Web Application Security
+- API Security
+- Threat Detection
+- Secure Software Development
+
+---
+
+## 👯 Looking to Collaborate On
+
+- Open-source Cybersecurity Tools
+- Security Automation
+- Vulnerability Assessment Projects
+
+---
+
+## 💬 Ask Me About
+
+- Web Application Security
+- Vulnerability Assessment & Penetration Testing (VAPT)
+- Burp Suite
+- Nmap
+- Linux
+- OWASP Top 10
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+Python • Bash • C
+
+**Security Tools**
+Burp Suite • Nmap • Wireshark • SQLMap • Nuclei • Nikto • Metasploit
+
+**Platforms**
+Linux • Git
+
+---
+
+## 📫 Reach Me
+
+📧 **Email:** krishgupta90621@gmail.com
+
+💼 **LinkedIn:** https://www.linkedin.com/in/krishguptaofficial
+
+🌐 **Portfolio:** *(Coming Soon)*
 
 
 ## 🌐 Socials:
